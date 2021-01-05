@@ -31,6 +31,8 @@
 </p>
 </div>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=orifiel&show_icons=true&locale=en&layout=compact&theme=dracula" alt="orifiel" /></p>
+<div display="flex" justify-content="center" align-items="center">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=orifiel&show_icons=true&locale=en&layout=compact&theme=dracula" alt="orifiel" /></p>
  
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=orifiel&show_icons=true&locale=en&theme=dracula" alt="orifiel" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=orifiel&show_icons=true&locale=en&theme=dracula" alt="orifiel" /></p>
+</div>

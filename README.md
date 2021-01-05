@@ -32,7 +32,7 @@
 </div>
 <br>
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=orifiel&show_icons=true&locale=en&layout=compact&theme=dracula" alt="orifiel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=orifiel&show_icons=true&locale=en&layout=compact&theme=dracula" alt="orifiel" /></p>
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orifiel&show_icons=true&locale=en&theme=dracula" alt="orifiel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=orifiel&show_icons=true&locale=en&theme=dracula" alt="orifiel" /></p>
 </div>

@@ -1,5 +1,5 @@
 <h1 align="center">Bem Vindx 👋, Eu sou o Cleiton</h1>
-<h3 align="center">Apaixonado por criatividade visual e suas possibilidades</h3>
+<h3 align="center">Apaixonado por resolver problemas</h3>
 
 - 🔭 Atualmente trabalho como **Analista de Suporte de TI na Infonova**
 

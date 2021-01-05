@@ -6,7 +6,7 @@
 - 🌓 Estou em transição de carreira, onde desejo usar minha criatividade como **Desenvolvedor Front End**
 
 - 🌱 Venho desenvolvendo minhas habilidades com as seguinte tecnologias:
-**HTML, CSS. Javascript, NodeJs e React **
+**HTML, CSS. Javascript, NodeJs e React**
 
 - 👨‍💻 Todos os meus projetos estão aqui no github, da uma olhada:
 [https://github.com/Orifiel?tab=repositories](https://github.com/Orifiel?tab=repositories)

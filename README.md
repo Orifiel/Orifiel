@@ -21,8 +21,6 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<br>
-<p align="center"> 
  
 <div align="center">
 <p align="center"> 
@@ -35,6 +33,6 @@
 </p>
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=orifiel&show_icons=true&locale=en&layout=compact&theme=dracula" alt="orifiel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=orifiel&show_icons=true&locale=en&layout=compact&theme=dracula" alt="orifiel" /></p>
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orifiel&show_icons=true&locale=en&theme=dracula" alt="orifiel" /></p>

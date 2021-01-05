@@ -5,7 +5,7 @@
 
 - 🌓 Estou em transição de carreira, onde desejo usar minha criatividade como **Desenvolvedor Front End**
 
-- 🌱 Venho desenvolvendo minhas habilidades com as seguinte tecnologias:
+- 🌱 Venho desenvolvendo minhas habilidades com as seguintes tecnologias:
 **HTML, CSS. Javascript, NodeJs e React**
 
 - 👨‍💻 Todos os meus projetos estão aqui no github, da uma olhada:

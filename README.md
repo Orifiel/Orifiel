@@ -1,11 +1,15 @@
-<h1 align="center">Bem Vindo(a) 👋, Eu sou o Cleiton Mattos</h1>
+<h1 align="center">Bem Vindx 👋, Eu sou o Cleiton</h1>
 <h3 align="center">Apaixonado por criatividade visual e suas possibilidades</h3>
 
 - 🔭 Atualmente trabalho como **Analista de Suporte de TI na Infonova**
 
-- 🌱 Venho desenvolvendo minhas habilidades com as seguinte tecnologias: **NodeJs, React and React Native**
+- 🌓 Estou em transição de carreira, onde desejo usar minha criatividade como **Desenvolvedor Front End**
 
-- 👨‍💻 Todos os meus projetos estão aqui no github, da uma olhada: [https://github.com/Orifiel?tab=repositories](https://github.com/Orifiel?tab=repositories)
+- 🌱 Venho desenvolvendo minhas habilidades com as seguinte tecnologias:
+**HTML, CSS. Javascript, NodeJs, React and React Native**
+
+- 👨‍💻 Todos os meus projetos estão aqui no github, da uma olhada:
+[https://github.com/Orifiel?tab=repositories](https://github.com/Orifiel?tab=repositories)
 
 - 📄 No meu Linkedin você pode encontrar mais informações sobre meu perfil profissional. [https://www.linkedin.com/in/cleiton-mattos-50098649/](https://www.linkedin.com/in/cleiton-mattos-50098649/)
 

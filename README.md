@@ -16,7 +16,6 @@
 - ⚡ Curiosidade: **Sou apaixonado por estórias fantasticas, seja na literatura ou contando-as por meio de RPG.**
 
 <h3 align="center">Connect with me:</h3>
-<br>
 <p align="center">
 <a href="https://linkedin.com/in/https://linkedin.com/in/www.linkedin.comincleiton-gomes-de-mattos-50098649" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/in/www.linkedin.comincleiton-gomes-de-mattos-50098649" height="30" width="40" /></a>
 </p>

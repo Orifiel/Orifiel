@@ -11,7 +11,7 @@
 - 👨‍💻 Todos os meus projetos estão aqui no github, da uma olhada:
 [https://github.com/Orifiel?tab=repositories](https://github.com/Orifiel?tab=repositories)
 
-- 📄 No meu Linkedin você pode encontrar mais informações sobre meu perfil profissional. [https://www.linkedin.com/in/cleiton-mattos-50098649/](https://www.linkedin.com/in/cleiton-mattos-50098649/)
+- 📄 No meu Linkedin você pode encontrar mais informações sobre meu perfil profissional. [https://www.linkedin.com/in/cleiton-mattos-50098649/](https://www.linkedin.com/in/cleiton-mattos/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

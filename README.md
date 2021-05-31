@@ -1,12 +1,15 @@
 <h1 align="center">Bem Vindos(as) 👋, Eu sou o Cleiton</h1>
 <h3 align="center">Apaixonado por resolver problemas</h3>
 
-- 🔭 Atualmente trabalho como **Analista de Suporte de TI na Infonova**
+- 🔭 Atualmente trabalho como **Sales Enginner na Synnex Westcon Comstor**
 
-- 🌓 Estou em transição de carreira, onde desejo usar minha criatividade como **Desenvolvedor Front End**
+- 🌓 Estou smepre em busca de me desenvolver no cenário de desenvolvimento e DevOps
 
 - 🌱 Venho desenvolvendo minhas habilidades com as seguintes tecnologias:
 **HTML, CSS. Javascript, NodeJs e React**
+
+- 🌱 Recentemente comecei a direcionar esforços também para as tecnologias em Devops:
+**Vagrant, Puppet, Ansible, entre outras que virão no futuro**
 
 - 👨‍💻 Todos os meus projetos estão aqui no github, da uma olhada:
 [https://github.com/Orifiel?tab=repositories](https://github.com/Orifiel?tab=repositories)

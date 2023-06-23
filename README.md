@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho como **Sales Enginner na Synnex Westcon Comstor**
 
-- 🌓 Estou smepre em busca de me desenvolver no cenário de desenvolvimento e DevOps
+- 🌓 Estou sempre em busca de me desenvolver no cenário de desenvolvimento e DevOps
 
 - 🌱 Venho desenvolvendo minhas habilidades com as seguintes tecnologias:
 **HTML, CSS. Javascript, NodeJs e React**

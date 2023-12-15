@@ -1,5 +1,5 @@
 <h1 align="center">Bem Vindos(as) 👋, Eu sou o Cleiton</h1>
-<h3 align="center">Apaixonado por resolver problemas</h3>
+<h3 align="center">Aprendendo sobre Devops</h3>
 
 - 🔭 Atualmente trabalho como **Sales Enginner na Synnex Westcon Comstor**
 

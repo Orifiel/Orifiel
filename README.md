@@ -1,4 +1,4 @@
-<h1 align="center">Bem Vindos(as) 👋, Eu sou o Cleiton</h1>
+<h1 align="center">Bem Vindos 👋, Eu sou o Cleiton</h1>
 
 - 📄 No meu Linkedin você pode encontrar mais informações sobre meu perfil profissional. [https://www.linkedin.com/in/cleiton-mattos](https://www.linkedin.com/in/cleiton-mattos/)
 

@@ -1,18 +1,4 @@
 <h1 align="center">Bem Vindos(as) 👋, Eu sou o Cleiton</h1>
-<h3 align="center">Aprendendo sobre Devops</h3>
-
-- 🔭 Atualmente trabalho como **Sales Enginner na Synnex Westcon Comstor**
-
-- 🌓 Estou sempre em busca de me desenvolver no cenário de desenvolvimento e DevOps
-
-- 🌱 Venho desenvolvendo minhas habilidades com as seguintes tecnologias:
-**HTML, CSS. Javascript, NodeJs e React**
-
-- 🌱 Recentemente comecei a direcionar esforços também para as tecnologias em Devops:
-**Vagrant, Puppet, Ansible, entre outras que virão no futuro**
-
-- 👨‍💻 Todos os meus projetos estão aqui no github, da uma olhada:
-[https://github.com/Orifiel?tab=repositories](https://github.com/Orifiel?tab=repositories)
 
 - 📄 No meu Linkedin você pode encontrar mais informações sobre meu perfil profissional. [https://www.linkedin.com/in/cleiton-mattos](https://www.linkedin.com/in/cleiton-mattos/)
 
